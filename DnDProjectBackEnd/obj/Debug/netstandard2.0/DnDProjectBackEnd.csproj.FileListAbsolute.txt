@@ -1,0 +1,5 @@
+C:\Users\Gladitorian\source\repos\DnDLibraly - Copy\DnDProjectBackEnd\bin\Debug\netstandard2.0\DnDProjectBackEnd.deps.json
+C:\Users\Gladitorian\source\repos\DnDLibraly - Copy\DnDProjectBackEnd\bin\Debug\netstandard2.0\DnDProjectBackEnd.dll
+C:\Users\Gladitorian\source\repos\DnDLibraly - Copy\DnDProjectBackEnd\obj\Debug\netstandard2.0\DnDProjectBackEnd.csprojAssemblyReference.cache
+C:\Users\Gladitorian\source\repos\DnDLibraly - Copy\DnDProjectBackEnd\obj\Debug\netstandard2.0\DnDProjectBackEnd.AssemblyInfoInputs.cache
+C:\Users\Gladitorian\source\repos\DnDLibraly - Copy\DnDProjectBackEnd\obj\Debug\netstandard2.0\DnDProjectBackEnd.AssemblyInfo.cs

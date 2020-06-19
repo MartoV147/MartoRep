@@ -1,0 +1,9 @@
+C:\Users\Gladitorian\source\repos\DnDLibraly - Copy\DnDProjectModels\bin\Debug\netstandard2.0\DnDProjectModels.deps.json
+C:\Users\Gladitorian\source\repos\DnDLibraly - Copy\DnDProjectModels\bin\Debug\netstandard2.0\DnDProjectModels.dll
+C:\Users\Gladitorian\source\repos\DnDLibraly - Copy\DnDProjectModels\bin\Debug\netstandard2.0\DnDProjectModels.pdb
+C:\Users\Gladitorian\source\repos\DnDLibraly - Copy\DnDProjectModels\obj\Debug\netstandard2.0\DnDProjectModels.AssemblyInfoInputs.cache
+C:\Users\Gladitorian\source\repos\DnDLibraly - Copy\DnDProjectModels\obj\Debug\netstandard2.0\DnDProjectModels.AssemblyInfo.cs
+C:\Users\Gladitorian\source\repos\DnDLibraly - Copy\DnDProjectModels\obj\Debug\netstandard2.0\DnDProjectModels.dll
+C:\Users\Gladitorian\source\repos\DnDLibraly - Copy\DnDProjectModels\obj\Debug\netstandard2.0\DnDProjectModels.pdb
+C:\Users\Gladitorian\source\repos\DnDLibraly - Copy\DnDProjectModels\obj\Debug\netstandard2.0\DnDProjectModels.csproj.CoreCompileInputs.cache
+C:\Users\Gladitorian\source\repos\DnDLibraly - Copy\DnDProjectModels\obj\Debug\netstandard2.0\DnDProjectModels.csprojAssemblyReference.cache
